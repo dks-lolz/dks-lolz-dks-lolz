@@ -1,4 +1,4 @@
-# dks-lolz-dks-lolz
+# dks-lolz
 README
 
 I'm learning Javascript on the hexlet.io resource on my own.
